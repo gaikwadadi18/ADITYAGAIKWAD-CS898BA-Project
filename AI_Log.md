@@ -22,4 +22,3 @@ Log of the AI tools I used while working on this project.
 ## Notes
 
 * AI tools were used to assist with project planning, literature review, preprocessing design, model selection, and presentation preparation.
-* All final project decisions, implementation details, and submitted materials were reviewed and edited by the student.
